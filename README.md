@@ -2,7 +2,7 @@
 
 # Overview
 
-The purpose of this project was to build of a webpage constucted in the module which filters a table and displays the results in a webpage. In this project, we expanded the capabilities of the webpage by adding additional filters which can be used in any combination to sort the table.
+The purpose of this project was to build off a webpage constucted in the module which filters a table and displays the results in a webpage. In this project, we expanded the capabilities of the webpage by adding additional filters which can be used in any combination to sort the table.
 
 # Results
 
@@ -24,4 +24,4 @@ We can search even further if we want the table to display a single result:
 
 # Summary
 
-One simple drawback of this design that while the tool is usefull, it would better serve much larger datasets, where filtering by multiple criteria would be more applicable. Despite this, filtering options could be added so that the table is sortable by any row or data point. One major improvement that could be made to improve the functionality of the webpage would be to filter by range rather than by a single data point. Instead of searching for dates by specific day, we could then sort within a range of days. On a similar note, we could allow for multiple inputs in each filtering box, delimiting by a comma for example. Thus, we could search for shape: 'light, circle", or state: 'ca, ny, tx', or other such criteria.
+One simple drawback of this design is that while the tool is usefull, it would better serve much larger datasets, where filtering by multiple criteria would be more applicable. Despite this, filtering options could be added so that the table is sortable by any row or data point. One major improvement that could be made to improve the functionality of the webpage would be to filter by range rather than by a single data point. Instead of searching for dates by specific day, we could then sort within a range of days. On a similar note, we could allow for multiple inputs in each filtering box, delimiting by a comma for example. Thus, we could search for shape: 'light, circle", or state: 'ca, ny, tx', or other such criteria.
